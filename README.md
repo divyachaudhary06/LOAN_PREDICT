@@ -13,7 +13,7 @@ The objective of this project is to build and compare multiple machine learning 
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 The dataset contains information about loan applicants, including:
 
@@ -34,7 +34,7 @@ The dataset contains information about loan applicants, including:
 
 ---
 
-## 🛠️ Data Preprocessing
+##  Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -47,7 +47,7 @@ The following preprocessing steps were performed:
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The following classification algorithms were implemented:
 
@@ -59,7 +59,7 @@ The following classification algorithms were implemented:
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 
 The models were evaluated using:
 
@@ -108,7 +108,7 @@ This project demonstrates the complete machine learning workflow, including data
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Divya Chaudhary**
 
